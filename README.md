@@ -1,6 +1,8 @@
 # Depression_CVMortality_Meta-analysis
 This repository contains example code for the manuscript: "Cardiovascular mortality and depression: A systematic review and meta-analysis of the association with antidepressant treatment and co-morbidity"
 
+Preprint not peer reviewed available here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272205
+
 ## Structure
 
 - `data/` – Contains CSV with the example structure for datasets used in the meta-analysis (see notes on data sharing).
